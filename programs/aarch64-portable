@@ -198,5 +198,6 @@
 ◆ yes : Output a string repeatedly until killed. This is part of "am-utils" suite.
 ◆ zap : Delightful command line AppImage package manager for appimage.github.io.
 ◆ zcat : Zcat - compress or expand files. This is part of "am-utils" suite.
+◆ zcode : ZCode is next-gen vibe coding for complex goals—with multiple agents and control from anywhere.
 ◆ zramen : Manage zram swap space.
 ◆ zsync : Partial/differential file download client over HTTP. This is part of "am-utils" suite.

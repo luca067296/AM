@@ -587,6 +587,7 @@
 ◆ yup : Arch Linux AUR Helper with ncurses functionality and better searching and sorting. #itscliapp
 ◆ zap : Delightful command line AppImage package manager for appimage.github.io. #itscliapp
 ◆ zcat : Zcat - compress or expand files. This is part of "am-utils" suite. #itscliapp
+◆ zcode : ZCode is next-gen vibe coding for complex goals—with multiple agents and control from anywhere. #itsdesktopapp
 ◆ zed : High-performance, multiplayer code editor from the creators of Atom. #itsdesktopapp
 ◆ zellij : A terminal workspace with batteries included. #itscliapp
 ◆ zfind : Search files, even inside tar/zip/7z/rar using a SQL-WHERE filter. #itscliapp
